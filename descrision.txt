@@ -1,0 +1,4 @@
+$SMMS PROJECT
+This Project start at 8th september,2023
+SMMS(Savings money management sotfware): is a sotfware which people use to management our savings money
+SMMS project is writen by c++ language
